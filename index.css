@@ -121,3 +121,8 @@ button {
 .register p a:hover{
   text-decoration: underline;
 }
+
+.register a {
+  text-decoration: none;
+  color: #ffff;
+}
