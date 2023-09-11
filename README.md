@@ -15,7 +15,7 @@ Você pode ver uma demonstração do projeto **[aqui](https://herick2d.github.io
 
 ## Como Utilizar
 Clone este repositório em seu ambiente de desenvolvimento:
-1. ```git clone https://github.com/herick2d/login```
+1. ```git clone https://github.com/herick2d/login.git```
 2. Abra o arquivo index.html em seu navegador para visualizar a tela de login personalizada.
 3. Explore o código-fonte nos arquivos HTML (index.html) e CSS (index.css) para entender como as personalizações foram implementadas e experimente fazer suas próprias modificações.
 
